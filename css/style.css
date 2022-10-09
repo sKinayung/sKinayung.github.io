@@ -1,0 +1,25 @@
+hr {
+ width: 250px;
+ background-color: #1f1f1f;
+}
+
+.jumbotron img {
+ border: 3px solid whitesmoke;
+ box-shadow: 0px -1px 5px rgba(0, 0, 0, .6);
+}
+
+.about {
+ min-height: 600px;
+}
+
+.portfolio {
+ background-color: #E9ecef;
+}
+
+.portfolio h2 {
+ color: #1f1f1f;
+}
+
+section label {
+ margin-right: 155px;
+}
